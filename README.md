@@ -1,4 +1,5 @@
 # JaQb-Mailing
-Hey, this is my mailing project. I hope you like it. 
-This project is under CC BY-NC license.
-To use this program, you must access less secure apps on your Google Account. Link: https://myaccount.google.com/lesssecureapps
+Witajcie, to jest mój program mailingowy. 
+Niestety, zadziała tylko, gdy serwer nadawcy to gmail.com. 
+Napisałem go w celach edukacyjnych.
+Aby go używać, musisz zezwolić na dostęp do mniej bezpiecznych aplikacji na koncie Google. Link: https://myaccount.google.com/lesssecureapps
